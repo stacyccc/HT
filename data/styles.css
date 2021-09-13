@@ -14,6 +14,16 @@
 }
 .button {
 }
+._文本链接 {
+  color:#0000FF;
+}
+.heading_3 {
+  font-family:'Arial Normal', 'Arial', sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  font-size:18px;
+  text-align:left;
+}
 .primary_button {
   color:#FFFFFF;
 }
@@ -137,12 +147,18 @@
 }
 ._形状 {
 }
+._水平线 {
+}
 ._文本段落 {
   text-align:left;
 }
 ._图片 {
 }
 .icon {
+}
+._下拉列表框 {
+  color:#000000;
+  text-align:left;
 }
 .paragraph {
   text-align:left;
