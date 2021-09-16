@@ -214,4 +214,18 @@
 }
 .form_disabled2 {
 }
+.droplist1 {
+  font-size:13px;
+  color:#000000;
+  text-align:left;
+}
+.table1 {
+  font-size:13px;
+  color:#000000;
+  text-align:left;
+}
+.table_cell1 {
+  font-size:13px;
+  color:#000000;
+}
 textarea, select, input, button { outline: none; }
